@@ -6,7 +6,7 @@ export default function BreakingTicker() {
 
   return (
     <div className="rs-breaking">
-      <div className="rs-breaking-label">BREAKING</div>
+      <div className="rs-breaking-label">BREAKING LOL</div>
       <div className="rs-ticker-wrap">
         <div className="rs-ticker">
           {items.map((item, i) => (
